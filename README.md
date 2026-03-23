@@ -1,16 +1,26 @@
-# Diabetes Risk Predictor 
- https://disease-predictor-nqt9.onrender.com  <--- LIVE LINK. 
-Machine learning web app that predicts diabetes risk from patient health data.
+# Diabetes Risk Predictor
 
-## Technologies
-Python · pandas · scikit-learn · Streamlit · matplotlib
+A machine learning web application that predicts diabetes risk 
+based on patient health data.
 
-## Model
-Random Forest Classifier · 768 patient records · 78% accuracy
+## What it does
+- Takes 8 patient health inputs via interactive sliders
+- Uses Random Forest ML model trained on 768 patient records
+- Predicts High Risk or Low Risk of diabetes
+- Achieves 78% accuracy on test data
 
-## How to run
-pip install pandas scikit-learn streamlit matplotlib
-streamlit run app.py
+## Technologies used
+- Python 3.11
+- pandas — data handling
+- scikit-learn — Random Forest ML model
+- Streamlit — web app interface
 
 ## Dataset
-PIMA Indians Diabetes Database from Kaggle# Diabetes Risk Predictor.
+PIMA Indians Diabetes Database from Kaggle — 768 patient records
+
+## How to run locally
+pip install -r requirements.txt
+streamlit run app.py
+
+## Skills demonstrated
+Data preprocessing, ML model training, web deployment
