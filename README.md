@@ -1,5 +1,5 @@
 # Diabetes Risk Predictor 
-https://github.com/ri2004-1/Disease_predictor <--- LIVE LINK. 
+ <--- LIVE LINK. 
 Machine learning web app that predicts diabetes risk from patient health data.
 
 ## Technologies
