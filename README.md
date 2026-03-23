@@ -1,5 +1,5 @@
 # Diabetes Risk Predictor
-
+https://disease-predictor-nqt9.onrender.com  <-----LIVE LINK.
 A machine learning web application that predicts diabetes risk 
 based on patient health data.
 
